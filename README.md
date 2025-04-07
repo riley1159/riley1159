@@ -5,11 +5,7 @@
 ---
 
 ### 🧠 About Me  
-- 🎓 Engineering student @ McMaster  
-- 🛠 Passionate about building real-world tech for people who need it most  
-- 🧭 Side quest: chasing ideas that challenge convention
-- 🔍 Obsessed with unsolved mysteries — digital and buried 
-- 🌐 Exploring how emerging tech — like AI and quantum — will shape what’s next
+I'm an engineering student at McMaster, passionate about building real-world tech for people who need it most. Whether it's chasing unconventional ideas, solving digital mysteries, or exploring buried ones, I’m driven by curiosity and impact. I’m especially fascinated by how emerging technologies like AI and quantum computing will shape the future. Outside of tech, you’ll find me on the ice playing hockey, in the gym pushing limits, or exploring new tools to challenge the status quo.
 
 ---
 
